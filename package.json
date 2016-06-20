@@ -1,0 +1,26 @@
+{
+  "name": "kat-profile",
+  "version": "1.0.0",
+  "description": "Angular version of portfolio",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbeame/kat-profile.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Katherine Beame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbeame/kat-profile/issues"
+  },
+  "homepage": "https://github.com/kbeame/kat-profile#readme"
+}
